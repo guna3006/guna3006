@@ -1,4 +1,4 @@
-<iframe src="./assets/index.html" width="100%" height="1000px"></iframe>
+<iframe src="assets/index.html" width="100%" height="1000px"></iframe>
 <p align="center">
  <a href="https://gunasegarran.me" target="blank">
     <img src="https://img.shields.io/badge/gunasegarran-DC143C?style=for-the-badge&logo=gitpod&logoColor=white" alt="gunasegarran" />
